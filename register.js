@@ -9,3 +9,4 @@ form.addEventListener('submit', e => {
     .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
     .catch(error => console.error('Error!', error.message))
 })
+// https://script.google.com/macros/s/AKfycbyp-Z8Oz6E0I129uvz6MNX9Aj31gty2R9Mg-TLjEtwPkKdvNWDHvdvGlVaV0pHddwQNOQ/exec
